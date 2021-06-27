@@ -23,4 +23,4 @@
 - What are some other possible tables and/or graphs that we could create?
 
 
-![Outcomes_vs_Goals.png](Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals.png](resources/Outcomes_vs_Goals.png)
