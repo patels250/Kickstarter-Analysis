@@ -18,7 +18,7 @@ Hello testing
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-    testing tes
+testing tes
 
 - What can you conclude about the Outcomes based on Goals?
 
