@@ -25,10 +25,17 @@ The line graph above shows the initial goal set by theatrical play campaigns on 
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-      - testing
+
+One conclusion that we can draw about the outcomes based on launch date is that the best time to launch a campaign is between the months of May and July. These three months resulted in the greatest number of successful theater campaigns. Conversely, another conclusion that we can draw is that the worst time to launch a campaign is between the months of November to January. These three months resulted in the lowest number of successful theater campaigns.
 
 - What can you conclude about the Outcomes based on Goals?
 
+We can conclude that we have the largest chance for a successful theatrical play campaign if we set our initial goal to be low, preferably $5,000 or below. Almost 80% of theatrical play campaigns are successful when the initial goal is below $5,000.
+
 - What are some limitations of this dataset?
 
+This dataset does not include some factors that could contribute to a Kickstarter campaign's success. One of those factors is marketing/social media. The manner in which a Kickstarter campaign is marketed and spread around social media surely affects the likelihood of its success. Similarly, the person or group behind the Kickstarter campaign is also important. A Kickstarter campaign launched by a famous celebrity who already has a following is very likely to receive more pledged money than a Kickstarter campaign launched by an average person. These kinds of factors could be tough to codify into a database but they could be potentially very important in determining a campaign's success.
+
 - What are some other possible tables and/or graphs that we could create?
+
+There are many different tables or graphs that we could create that could help us analyze what makes a Kickstarter campaign successful. We could analyze whether the length of a campaign affects how likely it is to be successful. We could create a line graph to help us visualize what the optimal length for a campaign is. 
