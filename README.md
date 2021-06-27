@@ -1,13 +1,26 @@
-# An Analysis of Kickstarter Campaigns
-Performing analysis on Kickstarter data to uncover trends
+# Kickstarting with Excel
 
-![Launch_Date_Outcomes.png](Launch_Date_Outcomes.png)
+## Overview of Project
 
-As you can see, the months with the most successful Kickstarter campaigns are May and June.
+### Purpose
+
+## Analysis and Challenges
+
+### Analysis of Outcomes Based on Launch Date
+
+### Analysis of Outcomes Based on Goals
+
+### Challenges and Difficulties Encountered
+
+## Results
+
+- What are two conclusions you can draw about the Outcomes based on Launch Date?
+
+- What can you conclude about the Outcomes based on Goals?
+
+- What are some limitations of this dataset?
+
+- What are some other possible tables and/or graphs that we could create?
 
 
-![Parent_Category_Outcomes.png](Parent_Category_Outcomes.png)
-
-Over 50% of Theater Kickstarter campaigns are successful.
-
-I would recommend that Louise launches her Kickstarter campaign in May.
+![Outcomes_vs_Goals.png](Outcomes_vs_Goals.png)
