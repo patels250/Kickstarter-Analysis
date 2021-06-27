@@ -25,7 +25,7 @@ The line graph above shows the initial goal set by theatrical play campaigns on 
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
--     nsaindaid
+      - testing
 
 - What can you conclude about the Outcomes based on Goals?
 
