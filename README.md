@@ -26,7 +26,7 @@ The line graph above shows the initial goal set by theatrical play campaigns on 
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-One conclusion that we can draw about the outcomes based on launch date is that the best time to launch a campaign is between the months of May and July. These three months resulted in the greatest number of successful theater campaigns. Conversely, another conclusion that we can draw is that the worst time to launch a campaign is between the months of November to January. These three months resulted in the lowest number of successful theater campaigns.
+One conclusion that we can draw about the outcomes based on launch date is that the best time to launch a campaign is between the months of May and July. These three months resulted in the greatest number of successful theater campaigns. Conversely, another conclusion that we can draw is that the worst time to launch a campaign is between the months of November and January. These three months resulted in the lowest number of successful theater campaigns.
 
 - What can you conclude about the Outcomes based on Goals?
 
